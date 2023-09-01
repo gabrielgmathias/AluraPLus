@@ -43,3 +43,9 @@ body {
  border: 2px solid white;
  border: 2px var(--branco-principal);
 }
+
+.container_titulo {
+  font-size: 12px;
+  color: var(--cinza-secundario);
+  color: pink
+}
